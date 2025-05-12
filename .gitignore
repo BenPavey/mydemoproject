@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+env/
+.venv/
+
+# Secrets and config
+.env
+env/
+
+# Django database (SQLite - local only)
+db.sqlite3
+
+# VS Code settings
+.vscode/
