@@ -15,3 +15,7 @@ db.sqlite3
 
 # VS Code settings
 .vscode/
+
+# Ignore all static files
+# except for the ones in the staticfiles directory
+staticfiles/
